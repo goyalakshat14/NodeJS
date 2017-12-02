@@ -1,6 +1,7 @@
 var Bucky={
 	favFood : "chicken",
 	favMovie : "sarfarosh"
+	//asdasdada
 }
 
 var Person = Bucky;
